@@ -2,12 +2,11 @@
 
 data ming and analysis 20200909
 
-edited from <Professor Binghui Wang >
-数据挖掘与分析
-
+课程主页： https://github.com/susannusas/datamining
 
 202009 网络与新媒体专业2019级 
 
+edited from Professor Binghui Wang 数据挖掘与分析
 
 上课形式：线上+线下 
 
