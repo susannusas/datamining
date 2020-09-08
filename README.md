@@ -90,7 +90,7 @@ https://meeting.tencent.com/s/HVie2P2cnlqN
 
 exercise代码文件以自己学号姓名命名，例如:hw1_张三_201912345,班长收集齐后于上完课后第二天23：59分前，提交至tsusanliu@jnu.edu.cn
  
-实践平台自己注册账号，直接提交。
+实践平台自己注册账号，石墨文档上提交，和最后在线提交。
   
 
       
