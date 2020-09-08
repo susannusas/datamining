@@ -1,5 +1,6 @@
-# datamining
-data ming and analysis 202009
+# datamining  刘倩  tsusanliu@jnu.edu.cn
+
+data ming and analysis 20200909
 
 edited from <Professor Binghui Wang >
 数据挖掘与分析
@@ -7,11 +8,35 @@ edited from <Professor Binghui Wang >
 
 202009 网络与新媒体专业2019级 
 
-wed 1234 A1105 and Science building computer room 3rd floor 
 
+上课形式：线上+线下 
 
-刘倩
-tsusanliu@jnu.edu.cn
+线下：wed 1234 A1105 and Science building computer room 3rd floor 
+
+线上：雨课堂通知，腾讯会议 
+
+----------------
+
+LQ 邀请您参加腾讯会议 请用实名进入会议，用于统计出勤情况
+会议主题：数据挖掘与分析20200909_网新2019
+会议时间：2020/9/9 08:00-12:00
+重复周期：每周(周三)
+
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/s/HVie2P2cnlqN
+
+会议 ID：969 7855 4214
+
+手机一键拨号入会
++8675536550000,,96978554214# (中国大陆)
++85230018898,,,2,96978554214# (中国香港)
+
+根据您的位置拨号
++8675536550000 (中国大陆)
++85230018898 (中国香港)
+
+-------------------------
+
 
 教学教材：
 
@@ -32,6 +57,13 @@ tsusanliu@jnu.edu.cn
   作业：exercise
   
   实践平台：http://www.ilab-x.com/details/v5?id=5270&isView=true
+  
+提交：
+
+exercise代码文件以自己学号姓名命名，例如:hw1_张三_201912345,班长收集齐后于上完课后第二天23：59分前，提交至tsusanliu@jnu.edu.cn
+ 
+实践平台自己注册账号，直接提交。
+  
 一、大数据分析基础
 
       1. 文本抓取与挖掘：
@@ -55,3 +87,23 @@ tsusanliu@jnu.edu.cn
       7. 综合分析及模拟评价：
 
       8. 综合指数及仿真研究：
+      
+      
+ 9.9号
+ 
+实验课：
+
+exercise 1，
+
+实践平台
+
+请申请实践平台账号，
+
+填写用户名等信息，
+
+并填写作业答案：例
+
+1. A
+2.B
+3.C
+4.D 
