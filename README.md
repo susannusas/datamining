@@ -1,5 +1,6 @@
 # datamining  刘倩  tsusanliu@jnu.edu.cn
 
+
 data ming and analysis 20200909
 
 课程主页： https://github.com/susannusas/datamining
@@ -49,6 +50,7 @@ https://meeting.tencent.com/s/HVie2P2cnlqN
           
   张良均 / 王路 / 谭立云 / 苏剑林《 Python数据分析与挖掘实战》           机械工业出版社 
   
+  
 ---------------------
 
 课件：ppt 
@@ -93,7 +95,9 @@ exercise代码文件以自己学号姓名命名，例如:hw1_张三_201912345,�
 实践平台自己注册账号，石墨文档上提交，和最后在线提交。
   
 
-      
+https://mybinder.org/v2/gh/susannusas/datamining/master
+
+ 
       
 -------------------
 
