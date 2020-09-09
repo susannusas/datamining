@@ -4,6 +4,7 @@
 data ming and analysis 20200909
 
 课程主页： https://github.com/susannusas/datamining
+         https://gitee.com/susanql/datamining/
 
 202009 网络与新媒体专业2019级 
 
