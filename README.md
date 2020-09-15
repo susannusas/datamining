@@ -132,6 +132,14 @@ exercise 1，
 实验课：
 
 继续完成exercise 1，并提交。deadline：隔天23：59分。
+实验课：
+exercise 1，
+1.登陆 www.kesci.com，
+2.注册账号为学号
+3. 点击 https://www.kesci.com/home/project/5f60ebe2ae300e0046021c25
+4. Fork
+5. 运行
+6.保存
 
 
 9.23
