@@ -92,7 +92,10 @@ https://meeting.tencent.com/s/HVie2P2cnlqN
 
 提交：
 
-exercise代码文件以自己学号姓名命名，例如:hw1_张三_201912345,班长收集齐后于上完课后第二天23：59分前，提交至tsusanliu@jnu.edu.cn
+
+exercise 1 ：https://www.kesci.com/home/project/5f60ebe2ae300e0046021c25
+
+从kesci.com指定连接 fork 到自己项目库，用学号注册账号，代码第一个cell注明姓名学号，张三_201912345,实在有困难没有完成的代码文件以张三_201912345命名，班长收集齐后于上完课后第二天23：59分前，提交至tsusanliu@jnu.edu.cn
  
 实践平台自己注册账号，石墨文档上提交，和最后在线提交。
   
@@ -106,6 +109,12 @@ https://mybinder.org/v2/gh/susannusas/datamining/master
 9.9
  
 课堂授课： 课程介绍， 第一章 数据收集与分析软件
+
+Data minging and analysis 1 
+
+https://www.kesci.com/home/project/5f60c96fae300e00460209e9
+
+
 
 实验课：
 
@@ -129,6 +138,10 @@ exercise 1，
  
 课堂授课：  第一章 数据收集与分析软件 数据爬取
 
+Data mining and analysis 1.25 python beginner 
+
+https://www.kesci.com/home/project/5f60eb2cae300e0046021bf8
+
 实验课：
 
 继续完成exercise 1，并提交。deadline：隔天23：59分。
@@ -147,7 +160,13 @@ exercise 1，
 课堂授课：   数据爬取
 
 
+Data mining and analysis 1.5 webcrawler practice
+
+https://www.kesci.com/home/project/5f60ea35ae300e0046021baa
+
 实验课：
 
 实践平台 完成练习测验2，答案在石墨文档提交。
+
+
 
