@@ -144,7 +144,7 @@ https://www.kesci.com/home/project/5f60eb2cae300e0046021bf8
 
 实验课：
 
-继续完成exercise 1，并提交。deadline：隔天23：59分。
+继续完成exercise 1，并提交。deadline：上课周 周四23：59分。
 实验课：
 exercise 1，
 1.登陆 www.kesci.com，
@@ -166,7 +166,22 @@ https://www.kesci.com/home/project/5f60ea35ae300e0046021baa
 
 实验课：
 
-实践平台 完成练习测验2，答案在石墨文档提交。
+实践平台 完成练习测验2，答案在石墨文档提交。（Deadline，当天下课之前）
 
+Kesci网coding作业（Deadline 下周 上课后隔天晚上23：59分前提交）
+Data mining and analysis 1.5 webcrawler practice        
 
+1.登陆 www.kesci.com，
+2. 点击下面链接 https://www.kesci.com/home/project/5f60ea35ae300e0046021baa4. 
+3. Fork
+4. 运行，在第一个cell写上自己姓名学号
+5.保存版本
+
+9.30
+
+课堂授课：第二章 数据挖掘的分析基础
+
+实验课：
+
+Data mining and analysis 1.5 webcrawler practice  上课周  隔天晚上23：59分前提交。
 
