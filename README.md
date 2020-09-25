@@ -15,7 +15,7 @@ edited from Professor Binghui Wang 数据挖掘与分析
 
 线下：wed 1234 A1105 and Science building computer room 3rd floor 
 
-线上：雨课堂通知，腾讯会议 
+线上：微信群通知，腾讯会议参加
 
 ----------------
 
@@ -59,9 +59,11 @@ https://meeting.tencent.com/s/HVie2P2cnlqN
 
 实践： 
 
-  作业：exercise
+  代码、作业提交及答案公布平台：和鲸专栏（数据挖掘与分析） https://www.kesci.com/home/column/5f6ae56271c7000030798b9a
+
   
   实践平台：http://www.ilab-x.com/details/v5?id=5270&isView=true
+  
   
   
 一、大数据分析基础
